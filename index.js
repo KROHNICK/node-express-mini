@@ -98,5 +98,5 @@ server.put("/api/users/:id", (req, res) => {
 });
 
 server.listen(5000, () => {
-  console.log("\n*** Running on port 5000 ***\n");
+  console.log("\n** Running on port 5000 **\n");
 });
